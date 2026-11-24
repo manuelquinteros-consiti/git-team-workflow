@@ -1,0 +1,23 @@
+{
+  "theme": "dark",
+  "density": "comfortable",
+  "showAvatars": true,
+  "pageSize": 10,
+  "semantic": {
+    "allowedTypes": [
+      "feat",
+      "fix",
+      "docs",
+      "style",
+      "refactor",
+      "perf",
+      "test",
+      "build",
+      "ci",
+      "chore",
+      "revert"
+    ],
+    "requireScope": false,
+    "maxTitleLength": 72
+  }
+}

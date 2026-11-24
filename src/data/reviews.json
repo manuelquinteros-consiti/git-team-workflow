@@ -1,0 +1,1290 @@
+[
+  {
+    "id": 1,
+    "pullRequestId": 1000,
+    "reviewerId": 3,
+    "status": "Aprobado",
+    "responseHours": 9
+  },
+  {
+    "id": 2,
+    "pullRequestId": 1001,
+    "reviewerId": 4,
+    "status": "Aprobado",
+    "responseHours": 16
+  },
+  {
+    "id": 3,
+    "pullRequestId": 1001,
+    "reviewerId": 2,
+    "status": "Aprobado",
+    "responseHours": 21
+  },
+  {
+    "id": 4,
+    "pullRequestId": 1002,
+    "reviewerId": 17,
+    "status": "Cambios solicitados",
+    "responseHours": 23
+  },
+  {
+    "id": 5,
+    "pullRequestId": 1003,
+    "reviewerId": 3,
+    "status": "Aprobado",
+    "responseHours": 30
+  },
+  {
+    "id": 6,
+    "pullRequestId": 1003,
+    "reviewerId": 4,
+    "status": "Aprobado",
+    "responseHours": 35
+  },
+  {
+    "id": 7,
+    "pullRequestId": 1004,
+    "reviewerId": 4,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 8,
+    "pullRequestId": 1005,
+    "reviewerId": 1,
+    "status": "Aprobado",
+    "responseHours": 44
+  },
+  {
+    "id": 9,
+    "pullRequestId": 1005,
+    "reviewerId": 2,
+    "status": "Aprobado",
+    "responseHours": 3
+  },
+  {
+    "id": 10,
+    "pullRequestId": 1006,
+    "reviewerId": 3,
+    "status": "Aprobado",
+    "responseHours": 5
+  },
+  {
+    "id": 11,
+    "pullRequestId": 1008,
+    "reviewerId": 13,
+    "status": "Aprobado",
+    "responseHours": 19
+  },
+  {
+    "id": 12,
+    "pullRequestId": 1011,
+    "reviewerId": 10,
+    "status": "Aprobado",
+    "responseHours": 40
+  },
+  {
+    "id": 13,
+    "pullRequestId": 1011,
+    "reviewerId": 11,
+    "status": "Aprobado",
+    "responseHours": 45
+  },
+  {
+    "id": 14,
+    "pullRequestId": 1012,
+    "reviewerId": 11,
+    "status": "Aprobado",
+    "responseHours": 1
+  },
+  {
+    "id": 15,
+    "pullRequestId": 1013,
+    "reviewerId": 12,
+    "status": "Aprobado",
+    "responseHours": 8
+  },
+  {
+    "id": 16,
+    "pullRequestId": 1013,
+    "reviewerId": 9,
+    "status": "Aprobado",
+    "responseHours": 13
+  },
+  {
+    "id": 17,
+    "pullRequestId": 1014,
+    "reviewerId": 5,
+    "status": "Aprobado",
+    "responseHours": 15
+  },
+  {
+    "id": 18,
+    "pullRequestId": 1016,
+    "reviewerId": 20,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 19,
+    "pullRequestId": 1017,
+    "reviewerId": 9,
+    "status": "Aprobado",
+    "responseHours": 36
+  },
+  {
+    "id": 20,
+    "pullRequestId": 1017,
+    "reviewerId": 10,
+    "status": "Aprobado",
+    "responseHours": 41
+  },
+  {
+    "id": 21,
+    "pullRequestId": 1018,
+    "reviewerId": 3,
+    "status": "Cambios solicitados",
+    "responseHours": 43
+  },
+  {
+    "id": 22,
+    "pullRequestId": 1019,
+    "reviewerId": 12,
+    "status": "Aprobado",
+    "responseHours": 4
+  },
+  {
+    "id": 23,
+    "pullRequestId": 1019,
+    "reviewerId": 10,
+    "status": "Aprobado",
+    "responseHours": 9
+  },
+  {
+    "id": 24,
+    "pullRequestId": 1020,
+    "reviewerId": 1,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 25,
+    "pullRequestId": 1022,
+    "reviewerId": 16,
+    "status": "Aprobado",
+    "responseHours": 25
+  },
+  {
+    "id": 26,
+    "pullRequestId": 1023,
+    "reviewerId": 13,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 27,
+    "pullRequestId": 1025,
+    "reviewerId": 8,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 28,
+    "pullRequestId": 1026,
+    "reviewerId": 5,
+    "status": "Aprobado",
+    "responseHours": 7
+  },
+  {
+    "id": 29,
+    "pullRequestId": 1027,
+    "reviewerId": 19,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 30,
+    "pullRequestId": 1028,
+    "reviewerId": 8,
+    "status": "Aprobado",
+    "responseHours": 21
+  },
+  {
+    "id": 31,
+    "pullRequestId": 1029,
+    "reviewerId": 1,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 32,
+    "pullRequestId": 1030,
+    "reviewerId": 3,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 33,
+    "pullRequestId": 1031,
+    "reviewerId": 4,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 34,
+    "pullRequestId": 1032,
+    "reviewerId": 5,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 35,
+    "pullRequestId": 1033,
+    "reviewerId": 11,
+    "status": "Aprobado",
+    "responseHours": 10
+  },
+  {
+    "id": 36,
+    "pullRequestId": 1033,
+    "reviewerId": 12,
+    "status": "Aprobado",
+    "responseHours": 15
+  },
+  {
+    "id": 37,
+    "pullRequestId": 1034,
+    "reviewerId": 16,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 38,
+    "pullRequestId": 1035,
+    "reviewerId": 14,
+    "status": "Aprobado",
+    "responseHours": 24
+  },
+  {
+    "id": 39,
+    "pullRequestId": 1035,
+    "reviewerId": 15,
+    "status": "Aprobado",
+    "responseHours": 29
+  },
+  {
+    "id": 40,
+    "pullRequestId": 1036,
+    "reviewerId": 6,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 41,
+    "pullRequestId": 1037,
+    "reviewerId": 11,
+    "status": "Aprobado",
+    "responseHours": 38
+  },
+  {
+    "id": 42,
+    "pullRequestId": 1037,
+    "reviewerId": 9,
+    "status": "Aprobado",
+    "responseHours": 43
+  },
+  {
+    "id": 43,
+    "pullRequestId": 1039,
+    "reviewerId": 18,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 44,
+    "pullRequestId": 1040,
+    "reviewerId": 4,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 45,
+    "pullRequestId": 1041,
+    "reviewerId": 2,
+    "status": "Aprobado",
+    "responseHours": 20
+  },
+  {
+    "id": 46,
+    "pullRequestId": 1041,
+    "reviewerId": 3,
+    "status": "Aprobado",
+    "responseHours": 25
+  },
+  {
+    "id": 47,
+    "pullRequestId": 1042,
+    "reviewerId": 6,
+    "status": "Cambios solicitados",
+    "responseHours": 27
+  },
+  {
+    "id": 48,
+    "pullRequestId": 1044,
+    "reviewerId": 10,
+    "status": "Aprobado",
+    "responseHours": 41
+  },
+  {
+    "id": 49,
+    "pullRequestId": 1046,
+    "reviewerId": 15,
+    "status": "Aprobado",
+    "responseHours": 9
+  },
+  {
+    "id": 50,
+    "pullRequestId": 1047,
+    "reviewerId": 13,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 51,
+    "pullRequestId": 1048,
+    "reviewerId": 2,
+    "status": "Aprobado",
+    "responseHours": 23
+  },
+  {
+    "id": 52,
+    "pullRequestId": 1049,
+    "reviewerId": 3,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 53,
+    "pullRequestId": 1050,
+    "reviewerId": 5,
+    "status": "Aprobado",
+    "responseHours": 37
+  },
+  {
+    "id": 54,
+    "pullRequestId": 1051,
+    "reviewerId": 3,
+    "status": "Cambios solicitados",
+    "responseHours": 44
+  },
+  {
+    "id": 55,
+    "pullRequestId": 1052,
+    "reviewerId": 8,
+    "status": "Aprobado",
+    "responseHours": 5
+  },
+  {
+    "id": 56,
+    "pullRequestId": 1053,
+    "reviewerId": 10,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 57,
+    "pullRequestId": 1054,
+    "reviewerId": 10,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 58,
+    "pullRequestId": 1056,
+    "reviewerId": 17,
+    "status": "Aprobado",
+    "responseHours": 33
+  },
+  {
+    "id": 59,
+    "pullRequestId": 1057,
+    "reviewerId": 14,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 60,
+    "pullRequestId": 1058,
+    "reviewerId": 20,
+    "status": "Aprobado",
+    "responseHours": 1
+  },
+  {
+    "id": 61,
+    "pullRequestId": 1059,
+    "reviewerId": 10,
+    "status": "Aprobado",
+    "responseHours": 8
+  },
+  {
+    "id": 62,
+    "pullRequestId": 1059,
+    "reviewerId": 11,
+    "status": "Aprobado",
+    "responseHours": 13
+  },
+  {
+    "id": 63,
+    "pullRequestId": 1060,
+    "reviewerId": 11,
+    "status": "Aprobado",
+    "responseHours": 15
+  },
+  {
+    "id": 64,
+    "pullRequestId": 1062,
+    "reviewerId": 13,
+    "status": "Aprobado",
+    "responseHours": 29
+  },
+  {
+    "id": 65,
+    "pullRequestId": 1064,
+    "reviewerId": 4,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 66,
+    "pullRequestId": 1065,
+    "reviewerId": 13,
+    "status": "Aprobado",
+    "responseHours": 4
+  },
+  {
+    "id": 67,
+    "pullRequestId": 1065,
+    "reviewerId": 14,
+    "status": "Aprobado",
+    "responseHours": 9
+  },
+  {
+    "id": 68,
+    "pullRequestId": 1066,
+    "reviewerId": 19,
+    "status": "Aprobado",
+    "responseHours": 11
+  },
+  {
+    "id": 69,
+    "pullRequestId": 1068,
+    "reviewerId": 13,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 70,
+    "pullRequestId": 1074,
+    "reviewerId": 13,
+    "status": "Aprobado",
+    "responseHours": 21
+  },
+  {
+    "id": 71,
+    "pullRequestId": 1076,
+    "reviewerId": 15,
+    "status": "Aprobado",
+    "responseHours": 35
+  },
+  {
+    "id": 72,
+    "pullRequestId": 1078,
+    "reviewerId": 3,
+    "status": "Cambios solicitados",
+    "responseHours": 3
+  },
+  {
+    "id": 73,
+    "pullRequestId": 1079,
+    "reviewerId": 11,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 74,
+    "pullRequestId": 1080,
+    "reviewerId": 1,
+    "status": "Aprobado",
+    "responseHours": 17
+  },
+  {
+    "id": 75,
+    "pullRequestId": 1081,
+    "reviewerId": 18,
+    "status": "Aprobado",
+    "responseHours": 24
+  },
+  {
+    "id": 76,
+    "pullRequestId": 1081,
+    "reviewerId": 19,
+    "status": "Aprobado",
+    "responseHours": 29
+  },
+  {
+    "id": 77,
+    "pullRequestId": 1083,
+    "reviewerId": 9,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 78,
+    "pullRequestId": 1084,
+    "reviewerId": 10,
+    "status": "Cambios solicitados",
+    "responseHours": 45
+  },
+  {
+    "id": 79,
+    "pullRequestId": 1085,
+    "reviewerId": 8,
+    "status": "Cambios solicitados",
+    "responseHours": 6
+  },
+  {
+    "id": 80,
+    "pullRequestId": 1086,
+    "reviewerId": 1,
+    "status": "Aprobado",
+    "responseHours": 13
+  },
+  {
+    "id": 81,
+    "pullRequestId": 1087,
+    "reviewerId": 10,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 82,
+    "pullRequestId": 1089,
+    "reviewerId": 1,
+    "status": "Cambios solicitados",
+    "responseHours": 34
+  },
+  {
+    "id": 83,
+    "pullRequestId": 1090,
+    "reviewerId": 15,
+    "status": "Aprobado",
+    "responseHours": 41
+  },
+  {
+    "id": 84,
+    "pullRequestId": 1092,
+    "reviewerId": 10,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 85,
+    "pullRequestId": 1093,
+    "reviewerId": 19,
+    "status": "Aprobado",
+    "responseHours": 16
+  },
+  {
+    "id": 86,
+    "pullRequestId": 1093,
+    "reviewerId": 20,
+    "status": "Aprobado",
+    "responseHours": 21
+  },
+  {
+    "id": 87,
+    "pullRequestId": 1094,
+    "reviewerId": 8,
+    "status": "Aprobado",
+    "responseHours": 23
+  },
+  {
+    "id": 88,
+    "pullRequestId": 1095,
+    "reviewerId": 1,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 89,
+    "pullRequestId": 1096,
+    "reviewerId": 2,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 90,
+    "pullRequestId": 1098,
+    "reviewerId": 17,
+    "status": "Cambios solicitados",
+    "responseHours": 5
+  },
+  {
+    "id": 91,
+    "pullRequestId": 1100,
+    "reviewerId": 12,
+    "status": "Cambios solicitados",
+    "responseHours": 19
+  },
+  {
+    "id": 92,
+    "pullRequestId": 1102,
+    "reviewerId": 7,
+    "status": "Aprobado",
+    "responseHours": 33
+  },
+  {
+    "id": 93,
+    "pullRequestId": 1103,
+    "reviewerId": 16,
+    "status": "Aprobado",
+    "responseHours": 40
+  },
+  {
+    "id": 94,
+    "pullRequestId": 1103,
+    "reviewerId": 14,
+    "status": "Aprobado",
+    "responseHours": 45
+  },
+  {
+    "id": 95,
+    "pullRequestId": 1104,
+    "reviewerId": 14,
+    "status": "Cambios solicitados",
+    "responseHours": 1
+  },
+  {
+    "id": 96,
+    "pullRequestId": 1105,
+    "reviewerId": 10,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 97,
+    "pullRequestId": 1107,
+    "reviewerId": 17,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 98,
+    "pullRequestId": 1108,
+    "reviewerId": 10,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 99,
+    "pullRequestId": 1109,
+    "reviewerId": 20,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 100,
+    "pullRequestId": 1110,
+    "reviewerId": 13,
+    "status": "Cambios solicitados",
+    "responseHours": 43
+  },
+  {
+    "id": 101,
+    "pullRequestId": 1112,
+    "reviewerId": 4,
+    "status": "Aprobado",
+    "responseHours": 11
+  },
+  {
+    "id": 102,
+    "pullRequestId": 1114,
+    "reviewerId": 14,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 103,
+    "pullRequestId": 1116,
+    "reviewerId": 17,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 104,
+    "pullRequestId": 1117,
+    "reviewerId": 15,
+    "status": "Aprobado",
+    "responseHours": 46
+  },
+  {
+    "id": 105,
+    "pullRequestId": 1117,
+    "reviewerId": 16,
+    "status": "Aprobado",
+    "responseHours": 5
+  },
+  {
+    "id": 106,
+    "pullRequestId": 1118,
+    "reviewerId": 19,
+    "status": "Aprobado",
+    "responseHours": 7
+  },
+  {
+    "id": 107,
+    "pullRequestId": 1119,
+    "reviewerId": 13,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 108,
+    "pullRequestId": 1120,
+    "reviewerId": 10,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 109,
+    "pullRequestId": 1121,
+    "reviewerId": 20,
+    "status": "Aprobado",
+    "responseHours": 28
+  },
+  {
+    "id": 110,
+    "pullRequestId": 1121,
+    "reviewerId": 18,
+    "status": "Aprobado",
+    "responseHours": 33
+  },
+  {
+    "id": 111,
+    "pullRequestId": 1122,
+    "reviewerId": 5,
+    "status": "Aprobado",
+    "responseHours": 35
+  },
+  {
+    "id": 112,
+    "pullRequestId": 1124,
+    "reviewerId": 3,
+    "status": "Aprobado",
+    "responseHours": 3
+  },
+  {
+    "id": 113,
+    "pullRequestId": 1126,
+    "reviewerId": 15,
+    "status": "Aprobado",
+    "responseHours": 17
+  },
+  {
+    "id": 114,
+    "pullRequestId": 1127,
+    "reviewerId": 7,
+    "status": "Aprobado",
+    "responseHours": 24
+  },
+  {
+    "id": 115,
+    "pullRequestId": 1127,
+    "reviewerId": 5,
+    "status": "Aprobado",
+    "responseHours": 29
+  },
+  {
+    "id": 116,
+    "pullRequestId": 1128,
+    "reviewerId": 17,
+    "status": "Aprobado",
+    "responseHours": 31
+  },
+  {
+    "id": 117,
+    "pullRequestId": 1129,
+    "reviewerId": 3,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 118,
+    "pullRequestId": 1130,
+    "reviewerId": 12,
+    "status": "Aprobado",
+    "responseHours": 45
+  },
+  {
+    "id": 119,
+    "pullRequestId": 1131,
+    "reviewerId": 18,
+    "status": "Aprobado",
+    "responseHours": 6
+  },
+  {
+    "id": 120,
+    "pullRequestId": 1131,
+    "reviewerId": 19,
+    "status": "Aprobado",
+    "responseHours": 11
+  },
+  {
+    "id": 121,
+    "pullRequestId": 1132,
+    "reviewerId": 2,
+    "status": "Cambios solicitados",
+    "responseHours": 13
+  },
+  {
+    "id": 122,
+    "pullRequestId": 1133,
+    "reviewerId": 16,
+    "status": "Aprobado",
+    "responseHours": 20
+  },
+  {
+    "id": 123,
+    "pullRequestId": 1133,
+    "reviewerId": 14,
+    "status": "Aprobado",
+    "responseHours": 25
+  },
+  {
+    "id": 124,
+    "pullRequestId": 1134,
+    "reviewerId": 10,
+    "status": "Aprobado",
+    "responseHours": 27
+  },
+  {
+    "id": 125,
+    "pullRequestId": 1136,
+    "reviewerId": 16,
+    "status": "Aprobado",
+    "responseHours": 41
+  },
+  {
+    "id": 126,
+    "pullRequestId": 1137,
+    "reviewerId": 5,
+    "status": "Cambios solicitados",
+    "responseHours": 2
+  },
+  {
+    "id": 127,
+    "pullRequestId": 1138,
+    "reviewerId": 14,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 128,
+    "pullRequestId": 1139,
+    "reviewerId": 12,
+    "status": "Aprobado",
+    "responseHours": 16
+  },
+  {
+    "id": 129,
+    "pullRequestId": 1139,
+    "reviewerId": 9,
+    "status": "Aprobado",
+    "responseHours": 21
+  },
+  {
+    "id": 130,
+    "pullRequestId": 1140,
+    "reviewerId": 17,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 131,
+    "pullRequestId": 1141,
+    "reviewerId": 10,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 132,
+    "pullRequestId": 1142,
+    "reviewerId": 16,
+    "status": "Aprobado",
+    "responseHours": 37
+  },
+  {
+    "id": 133,
+    "pullRequestId": 1143,
+    "reviewerId": 5,
+    "status": "Cambios solicitados",
+    "responseHours": 44
+  },
+  {
+    "id": 134,
+    "pullRequestId": 1144,
+    "reviewerId": 15,
+    "status": "Cambios solicitados",
+    "responseHours": 5
+  },
+  {
+    "id": 135,
+    "pullRequestId": 1145,
+    "reviewerId": 12,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 136,
+    "pullRequestId": 1146,
+    "reviewerId": 17,
+    "status": "Aprobado",
+    "responseHours": 19
+  },
+  {
+    "id": 137,
+    "pullRequestId": 1147,
+    "reviewerId": 18,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 138,
+    "pullRequestId": 1148,
+    "reviewerId": 4,
+    "status": "Cambios solicitados",
+    "responseHours": 33
+  },
+  {
+    "id": 139,
+    "pullRequestId": 1149,
+    "reviewerId": 9,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 140,
+    "pullRequestId": 1150,
+    "reviewerId": 11,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 141,
+    "pullRequestId": 1151,
+    "reviewerId": 16,
+    "status": "Cambios solicitados",
+    "responseHours": 8
+  },
+  {
+    "id": 142,
+    "pullRequestId": 1153,
+    "reviewerId": 6,
+    "status": "Cambios solicitados",
+    "responseHours": 22
+  },
+  {
+    "id": 143,
+    "pullRequestId": 1154,
+    "reviewerId": 8,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 144,
+    "pullRequestId": 1155,
+    "reviewerId": 17,
+    "status": "Aprobado",
+    "responseHours": 36
+  },
+  {
+    "id": 145,
+    "pullRequestId": 1155,
+    "reviewerId": 18,
+    "status": "Aprobado",
+    "responseHours": 41
+  },
+  {
+    "id": 146,
+    "pullRequestId": 1156,
+    "reviewerId": 6,
+    "status": "Cambios solicitados",
+    "responseHours": 43
+  },
+  {
+    "id": 147,
+    "pullRequestId": 1157,
+    "reviewerId": 12,
+    "status": "Cambios solicitados",
+    "responseHours": 4
+  },
+  {
+    "id": 148,
+    "pullRequestId": 1158,
+    "reviewerId": 1,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 149,
+    "pullRequestId": 1159,
+    "reviewerId": 18,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 150,
+    "pullRequestId": 1161,
+    "reviewerId": 5,
+    "status": "Cambios solicitados",
+    "responseHours": 32
+  },
+  {
+    "id": 151,
+    "pullRequestId": 1163,
+    "reviewerId": 19,
+    "status": "Aprobado",
+    "responseHours": 46
+  },
+  {
+    "id": 152,
+    "pullRequestId": 1163,
+    "reviewerId": 17,
+    "status": "Aprobado",
+    "responseHours": 5
+  },
+  {
+    "id": 153,
+    "pullRequestId": 1164,
+    "reviewerId": 13,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 154,
+    "pullRequestId": 1166,
+    "reviewerId": 15,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 155,
+    "pullRequestId": 1169,
+    "reviewerId": 16,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 156,
+    "pullRequestId": 1170,
+    "reviewerId": 1,
+    "status": "Aprobado",
+    "responseHours": 3
+  },
+  {
+    "id": 157,
+    "pullRequestId": 1171,
+    "reviewerId": 14,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 158,
+    "pullRequestId": 1172,
+    "reviewerId": 16,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 159,
+    "pullRequestId": 1173,
+    "reviewerId": 9,
+    "status": "Aprobado",
+    "responseHours": 24
+  },
+  {
+    "id": 160,
+    "pullRequestId": 1173,
+    "reviewerId": 10,
+    "status": "Aprobado",
+    "responseHours": 29
+  },
+  {
+    "id": 161,
+    "pullRequestId": 1174,
+    "reviewerId": 11,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 162,
+    "pullRequestId": 1175,
+    "reviewerId": 4,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 163,
+    "pullRequestId": 1176,
+    "reviewerId": 18,
+    "status": "Aprobado",
+    "responseHours": 45
+  },
+  {
+    "id": 164,
+    "pullRequestId": 1177,
+    "reviewerId": 14,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 165,
+    "pullRequestId": 1179,
+    "reviewerId": 17,
+    "status": "Cambios solicitados",
+    "responseHours": 20
+  },
+  {
+    "id": 166,
+    "pullRequestId": 1180,
+    "reviewerId": 6,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 167,
+    "pullRequestId": 1181,
+    "reviewerId": 3,
+    "status": "Aprobado",
+    "responseHours": 34
+  },
+  {
+    "id": 168,
+    "pullRequestId": 1181,
+    "reviewerId": 1,
+    "status": "Aprobado",
+    "responseHours": 39
+  },
+  {
+    "id": 169,
+    "pullRequestId": 1182,
+    "reviewerId": 5,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 170,
+    "pullRequestId": 1183,
+    "reviewerId": 14,
+    "status": "Aprobado",
+    "responseHours": 2
+  },
+  {
+    "id": 171,
+    "pullRequestId": 1183,
+    "reviewerId": 16,
+    "status": "Aprobado",
+    "responseHours": 7
+  },
+  {
+    "id": 172,
+    "pullRequestId": 1184,
+    "reviewerId": 16,
+    "status": "Aprobado",
+    "responseHours": 9
+  },
+  {
+    "id": 173,
+    "pullRequestId": 1186,
+    "reviewerId": 2,
+    "status": "Aprobado",
+    "responseHours": 23
+  },
+  {
+    "id": 174,
+    "pullRequestId": 1187,
+    "reviewerId": 20,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 175,
+    "pullRequestId": 1188,
+    "reviewerId": 5,
+    "status": "Cambios solicitados",
+    "responseHours": 37
+  },
+  {
+    "id": 176,
+    "pullRequestId": 1189,
+    "reviewerId": 14,
+    "status": "Aprobado",
+    "responseHours": 44
+  },
+  {
+    "id": 177,
+    "pullRequestId": 1189,
+    "reviewerId": 15,
+    "status": "Aprobado",
+    "responseHours": 3
+  },
+  {
+    "id": 178,
+    "pullRequestId": 1192,
+    "reviewerId": 3,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 179,
+    "pullRequestId": 1195,
+    "reviewerId": 10,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 180,
+    "pullRequestId": 1197,
+    "reviewerId": 10,
+    "status": "Aprobado",
+    "responseHours": 8
+  },
+  {
+    "id": 181,
+    "pullRequestId": 1197,
+    "reviewerId": 11,
+    "status": "Aprobado",
+    "responseHours": 13
+  },
+  {
+    "id": 182,
+    "pullRequestId": 1198,
+    "reviewerId": 19,
+    "status": "Pendiente",
+    "responseHours": null
+  },
+  {
+    "id": 183,
+    "pullRequestId": 1199,
+    "reviewerId": 7,
+    "status": "Aprobado",
+    "responseHours": 22
+  },
+  {
+    "id": 184,
+    "pullRequestId": 1199,
+    "reviewerId": 5,
+    "status": "Aprobado",
+    "responseHours": 27
+  }
+]

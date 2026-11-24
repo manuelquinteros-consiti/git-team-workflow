@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Ana López",
+    "teamId": 1
+  },
+  {
+    "id": 2,
+    "name": "Mario Ruiz",
+    "teamId": 1
+  },
+  {
+    "id": 3,
+    "name": "Sofía Díaz",
+    "teamId": 1
+  },
+  {
+    "id": 4,
+    "name": "Diego Cruz",
+    "teamId": 1
+  },
+  {
+    "id": 5,
+    "name": "Carlos Martínez",
+    "teamId": 2
+  },
+  {
+    "id": 6,
+    "name": "Laura Pérez",
+    "teamId": 2
+  },
+  {
+    "id": 7,
+    "name": "José Flores",
+    "teamId": 2
+  },
+  {
+    "id": 8,
+    "name": "Elena Ramos",
+    "teamId": 2
+  },
+  {
+    "id": 9,
+    "name": "Luis García",
+    "teamId": 3
+  },
+  {
+    "id": 10,
+    "name": "Marta Reyes",
+    "teamId": 3
+  },
+  {
+    "id": 11,
+    "name": "Pablo Soto",
+    "teamId": 3
+  },
+  {
+    "id": 12,
+    "name": "Sara Molina",
+    "teamId": 3
+  },
+  {
+    "id": 13,
+    "name": "Daniel Vega",
+    "teamId": 4
+  },
+  {
+    "id": 14,
+    "name": "Lucía Ortiz",
+    "teamId": 4
+  },
+  {
+    "id": 15,
+    "name": "Pedro León",
+    "teamId": 4
+  },
+  {
+    "id": 16,
+    "name": "Eva Castro",
+    "teamId": 4
+  },
+  {
+    "id": 17,
+    "name": "Andrés Silva",
+    "teamId": 5
+  },
+  {
+    "id": 18,
+    "name": "Julia Rivas",
+    "teamId": 5
+  },
+  {
+    "id": 19,
+    "name": "David Paz",
+    "teamId": 5
+  },
+  {
+    "id": 20,
+    "name": "Nora Campos",
+    "teamId": 5
+  }
+]
