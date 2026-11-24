@@ -1,0 +1,10 @@
+# Secretos
+.env
+.env.*
+*.pem
+
+# Archivos generados
+node_modules/
+dist/
+build/
+*.log
