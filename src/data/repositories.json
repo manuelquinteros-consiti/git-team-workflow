@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "frontend-app",
+    "teamId": 1
+  },
+  {
+    "id": 2,
+    "name": "shared-ui",
+    "teamId": 1
+  },
+  {
+    "id": 3,
+    "name": "backend-api",
+    "teamId": 2
+  },
+  {
+    "id": 4,
+    "name": "auth-service",
+    "teamId": 2
+  },
+  {
+    "id": 5,
+    "name": "infrastructure",
+    "teamId": 3
+  },
+  {
+    "id": 6,
+    "name": "automation",
+    "teamId": 3
+  },
+  {
+    "id": 7,
+    "name": "qa-tests",
+    "teamId": 4
+  },
+  {
+    "id": 8,
+    "name": "e2e-suite",
+    "teamId": 4
+  },
+  {
+    "id": 9,
+    "name": "monitoring",
+    "teamId": 5
+  },
+  {
+    "id": 10,
+    "name": "platform-api",
+    "teamId": 5
+  }
+]
