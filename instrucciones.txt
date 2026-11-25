@@ -1,0 +1,2 @@
+1. Clonar el repositorio
+2. Crear una rama de trabajo

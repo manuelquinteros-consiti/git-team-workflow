@@ -138,3 +138,4 @@ Para conectar GitHub se implementarían `IPullRequestRepository`, `IGitRepositor
 4. **Asignación a equipos**: el formulario de equipo mueve desarrolladores y repositorios desde otros equipos. Para sacar a alguien de un equipo se lo asigna a otro.
 5. **Integridad referencial**: no se eliminan equipos con miembros o repositorios, ni desarrolladores o repositorios con Pull Requests.
 6. **HashRouter** para funcionar en cualquier hosting estático.
+Proyecto de simulacion de trabajo colaborativo.
